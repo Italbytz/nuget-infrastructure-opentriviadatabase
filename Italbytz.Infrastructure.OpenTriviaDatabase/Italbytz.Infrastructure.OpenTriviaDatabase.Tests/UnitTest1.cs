@@ -1,7 +1,7 @@
 ﻿using System.Threading.Tasks;
 using NUnit.Framework;
 
-namespace OpenTriviaDatabase.Tests
+namespace Italbytz.Infrastructure.OpenTriviaDatabase.Tests
 {
     public class Tests
     {

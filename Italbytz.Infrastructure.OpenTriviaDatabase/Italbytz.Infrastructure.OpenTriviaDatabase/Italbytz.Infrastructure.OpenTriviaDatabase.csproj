@@ -5,9 +5,9 @@
     <PackOnBuild>true</PackOnBuild>
     <PackageVersion>0.1.0</PackageVersion>
     <Authors>Robin Nunkesser</Authors>
-    <PackageLicenseUrl>https://github.com/Italbytz/open-trivia-database-nuget/blob/main/LICENSE</PackageLicenseUrl>
+    <PackageLicenseUrl>https://github.com/Italbytz/nuget-infrastructure-opentriviadatabase/blob/main/LICENSE</PackageLicenseUrl>
     <Owners>Robin Nunkrddrt</Owners>
-    <PackageProjectUrl>https://github.com/Italbytz/open-trivia-database-nuget</PackageProjectUrl>
+    <PackageProjectUrl>https://github.com/Italbytz/nuget-infrastructure-opentriviadatabase</PackageProjectUrl>
     <Description>Basic methods to access the OpenTriviaDatabase.</Description>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">

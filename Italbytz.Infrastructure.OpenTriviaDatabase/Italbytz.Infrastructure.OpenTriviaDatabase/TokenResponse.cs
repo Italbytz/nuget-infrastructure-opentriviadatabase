@@ -1,6 +1,6 @@
 ﻿using System.Text.Json.Serialization;
 
-namespace OpenTriviaDatabase
+namespace Italbytz.Infrastructure.OpenTriviaDatabase
 {
     public class TokenResponse
     {
