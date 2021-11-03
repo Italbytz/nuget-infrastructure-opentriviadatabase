@@ -6,7 +6,7 @@
     <PackageVersion>0.1.0</PackageVersion>
     <Authors>Robin Nunkesser</Authors>
     <PackageLicenseUrl>https://github.com/Italbytz/nuget-infrastructure-opentriviadatabase/blob/main/LICENSE</PackageLicenseUrl>
-    <Owners>Robin Nunkrddrt</Owners>
+    <Owners>Robin Nunkesser</Owners>
     <PackageProjectUrl>https://github.com/Italbytz/nuget-infrastructure-opentriviadatabase</PackageProjectUrl>
     <Description>Basic methods to access the OpenTriviaDatabase.</Description>
   </PropertyGroup>
